@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-19T16:55:31.810Z",
-  "totalFiles": 29,
-  "totalSize": 39166952,
+  "lastUpdated": "2025-12-20T23:49:48.812Z",
+  "totalFiles": 37,
+  "totalSize": 43717214,
   "files": [
     {
       "path": "Common/AniTable01.ido",
@@ -11,10 +11,28 @@
       "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Common/AniTable01.ido"
     },
     {
+      "path": "Common/GameSound - Copy.ido",
+      "sha256": "74236c29f15aac4d9342865fe3da1ac06f097ffd7ace221c2c3d6dbfadc97fba",
+      "size": 4364,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Common/GameSound - Copy.ido"
+    },
+    {
       "path": "Common/GameSound.ido",
       "sha256": "5243e476a4555b87b358bae5f7f8d7cef4d8ba6ff29905c3101198626adc36ec",
       "size": 5347,
       "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Common/GameSound.ido"
+    },
+    {
+      "path": "Sound/0157.ido",
+      "sha256": "b035df1950779607c9c0f75da5e5e2cf00154bd391d1e2f7813c0af071356ea0",
+      "size": 432,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0157.ido"
+    },
+    {
+      "path": "Sound/0157_8key.ido",
+      "sha256": "5d38d28a76eab6baedb5babbe2cf24507a8600028109a50a3f7c4b91a9770c71",
+      "size": 432,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0157_8key.ido"
     },
     {
       "path": "Sound/0158.ido",
@@ -51,6 +69,24 @@
       "sha256": "ef7af1b034e85b66d5d17de0bfef5aaecca4c1ea52e5df6e0e8ce3c9d6e329ed",
       "size": 1480,
       "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0160_8key.ido"
+    },
+    {
+      "path": "Sound/0161.ido",
+      "sha256": "50080a8264500abb7d5433cff6c36aa825eb576e3ef3cd9fb1c81be9b8172019",
+      "size": 793,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0161.ido"
+    },
+    {
+      "path": "Sound/0161_8key.ido",
+      "sha256": "4cea117cfc89669aa6bc2da2a69dc97694189f948ca340f8103705efb55e9ab6",
+      "size": 1480,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0161_8key.ido"
+    },
+    {
+      "path": "Sound/0162.bms",
+      "sha256": "cb871861da537e092f0863a8eec17609a6eb2aa45cf0fedcf3e8443c52beca27",
+      "size": 1527,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/0162.bms"
     },
     {
       "path": "Sound/0162.ido",
@@ -107,6 +143,12 @@
       "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/bgmlobby.ogg"
     },
     {
+      "path": "Sound/bgm_0157.ogg",
+      "sha256": "fa1628d576e23a3f719b20b1f7a2569fd19e039d02eb45d3336592c4f4d346d2",
+      "size": 1880313,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/bgm_0157.ogg"
+    },
+    {
       "path": "Sound/bgm_0158.ogg",
       "sha256": "5b9a3b41ec597ea7108d4c99a3d71c2909e1f773bffa63c33b290e30a86799b7",
       "size": 2545268,
@@ -123,6 +165,12 @@
       "sha256": "f717d53ebfe6804fa48489a781186474bec35c50dffb3a9131de7c7ce512c239",
       "size": 2875075,
       "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/bgm_0160.ogg"
+    },
+    {
+      "path": "Sound/bgm_0161.ogg",
+      "sha256": "77fe8564ea76b64c0145fee1b5a5fa4f334d41126d053ff74e74741e6413b3cb",
+      "size": 2660921,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/main/Media/Sound/bgm_0161.ogg"
     },
     {
       "path": "Sound/bgm_0162.ogg",
